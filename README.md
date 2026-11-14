@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ dev4KoS</h1>
+  <h1>⚡ SpinosaDev</h1>
   <p><strong>Programador · Vibe Coder · Builder</strong></p>
   
   <p>
