@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ SpinosaDev</h1>
+  <h1>Giovanni Spinosa</h1></h1>
   <p><strong>Programador Full-Stack & Mobile · Creador de Software de 0 a 100</strong></p>
   
   <p>
