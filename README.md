@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Giovanni Spinosa</h1></h1>
+  <img src="avatar.png" width="140" height="140" style="border-radius: 50%; object-fit: cover; border: 3px solid #38BDF8;" alt="Giovanni Spinosa" />
+  <h1>⚡ Giovanni Spinosa</h1>
   <p><strong>Programador Full-Stack & Mobile · Creador de Software de 0 a 100</strong></p>
   
   <p>
