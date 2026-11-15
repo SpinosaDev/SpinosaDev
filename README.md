@@ -53,21 +53,18 @@ Programador full stack enfocado en crear **aplicaciones completas, funcionales y
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### 🛠️ Tecnologías & Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,rust,kotlin,androidstudio,postgres,supabase,sqlite,docker,linux,git,github,bash,postman,tailwind,html,css,js,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,kotlin,androidstudio,rust,postgres,supabase,docker,git" alt="Tech Stack" />
 </p>
 
-| Área | Tecnologías | Uso Principal |
+| Área | Tecnologías Clave | Enfoque Principal |
 | :--- | :--- | :--- |
-| **Backend & APIs** | `Python 3.12` · `FastAPI` · `Pydantic` · `Uvicorn` · `Ktor` | APIs REST asíncronas, autenticación JWT, lógica de negocio y servicios |
-| **Móvil Android & Multiplataforma** | `Kotlin 2.0` · `Jetpack Compose` · `Compose Multiplatform` · `Room` | Apps de campo, arquitectura MVVM/MVI, WorkManager, escáner y biometría |
-| **Sistemas & Criptografía** | `Rust` · `Argon2id` · `XChaCha20-Poly1305` · `AES-256-GCM` | Núcleo `vault-core`, derivación segura de contraseñas, canales E2EE y `zeroize` |
-| **Bases de Datos** | `PostgreSQL` · `Supabase (RLS)` · `SQLite (Room)` | Modelado de datos, consultas optimizadas, RLS multi-tenant y migraciones SQL |
-| **Frontend & Web** | `HTML5` · `Tailwind CSS` · `JavaScript Vanilla` | Dashboards interactivos, diseño responsive, temas claro/oscuro y componentes modulares |
-| **Seguridad & Testing** | `Zero-Trust` · `Pytest (213+ tests)` · `Nuclei` · `JWT` | Auditoría de vulnerabilidades, pruebas automáticas de seguridad y lógica |
-| **Herramientas & Entorno** | `Docker` · `Linux / Bash` · `Git / GitHub` · `Android Studio` | Control de versiones, contenedores, pruebas y despliegue |
+| **Backend & Base de Datos** | `Python 3.12` · `FastAPI` · `PostgreSQL / Supabase` | APIs REST asíncronas, autenticación JWT y persistencia relacional con RLS |
+| **Móvil Android** | `Kotlin` · `Jetpack Compose` · `Room DB` | Aplicaciones nativas de campo, diseño reactivo y sincronización offline-first |
+| **Sistemas & Seguridad** | `Rust` · `Argon2id` · `Cifrado E2EE (XChaCha20 / AES)` | Núcleo de alta seguridad para gestión de credenciales y canales cifrados |
+| **Control & Despliegue** | `Docker` · `Git` · `GitHub` | Contenedores de servicios, control de versiones y despliegue |
 
 ---
 
